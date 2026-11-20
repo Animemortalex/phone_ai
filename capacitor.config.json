@@ -1,0 +1,6 @@
+{
+  "appId": "com.personal.aistudio",
+  "appName": "Personal AI",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
